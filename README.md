@@ -1,4 +1,4 @@
-# 🚀 React Professional Form
+#  React Professional Form
 
 A modern, scalable, and fully responsive form application built using **React**, **TypeScript**, and **Vite**. This project demonstrates best practices for handling forms in React with strong typing, validation, and optimized performance.
 
